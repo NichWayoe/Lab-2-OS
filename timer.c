@@ -1,4 +1,7 @@
 /* hello_signal.c */
+// Nicholas Wayoe
+// 9380317
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <signal.h>
