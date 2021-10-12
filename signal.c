@@ -1,6 +1,6 @@
 /* hello_signal.c */
 // Nicholas Wayoe
-// 9380317
+// 02903830
 
 #include <stdio.h>
 #include <stdlib.h>
